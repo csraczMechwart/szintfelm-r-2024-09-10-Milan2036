@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "foci": {
+      "commandName": "Project"
+    },
+    "Container (Dockerfile)": {
+      "commandName": "Docker"
+    }
+  }
+}
